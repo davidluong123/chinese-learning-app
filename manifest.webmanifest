@@ -1,0 +1,24 @@
+{
+  "name": "Học tiếng Trung 30 phút/ngày",
+  "short_name": "中文 30 phút",
+  "description": "Lộ trình học tiếng Trung 30 phút mỗi ngày",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#c8372d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
